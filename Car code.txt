@@ -1,7 +1,8 @@
-int IN1 = 13;
-int IN2 = 12;
-int IN3 = 11;
-int IN4 = 10;
+#define in1 5 //L298n Motor Driver pins.
+#define in2 6
+#define in3 10
+#define in4 11
+#define LED 13
 char val;
 void setup()
 {
